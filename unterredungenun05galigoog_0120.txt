@@ -1,0 +1,55 @@
+' Untorreoungen und mathematisehe Demonstrationen eto. 117
+
+Simpl. Das ist freilioh klar, denn wonn wir vom grdsaeren zum
+kleineren dborgehen, so muse es dazwisehen ein gleiehes geben.
+
+Soqr. Nun aber muse gesunden werden, wie die Sego nu
+idhren eei, nm aoloh einen Sohniti heraueaubringen.
+
+Simpl. Ioh denke, das mdeste ganz leioht sein, donn wenn
+wir genau die Halfte fortnehmen‚ duroh einen Diagonalsohnitt‚
+
+und alsdann die abrigbleibende Geetalt die entgegengeseizie
+Eigensohaft des vollen Priamas hat, sodaae an allen staden, wo
+der eine Korper an Festigkeit znnahm‚ der andere ebensoviel
+gewann‚ dann werden wir dberall das Mitiel nehmen, d. h. wir
+werden nur die Halfte der Halfte fortnehmen, also ein Viertel
+des Gannen, und dann wind die nordeirbleibende Gestalt weder
+gewinnen noeh verlieren an allen Stellen wo Gewinn und Ver-
+lust der andern beiden Figuren einander stete gleioh waren.
+
+Sal. Fehlgeeohoseen‚ Herr Simplicio: ioh werde iduoh
+zeigen, dosa das, was vom Prisma weggenommen werden kann,
+ohne desselbe zu sohwaehen nieht ein Viertel betragt, sondern
+ein Drittel. Wir wellen nnn, wie Herr Saqredo sagio, den Weg
+bestimmen, den die Sage zu durohiausen hat: es ist das eine
+Par-abel. Zunaohat eber beweisen wir folgenden Hdlfesetn:
+
+Wenn nwei Hebel ιο unterstdtzt sind, dass diejenigen beiden
+Arme, an welehen die Krafte winken, aioh verhalten wie die
+Quadrato derjenigen Arme, an welehen die Widerstande withan,
+welohe letztere zugleieh proportional denselben Armen seien, so
+sind die wirkenden Krafte einander gleioh.
+
+Ee seien die Hebel AB, OD (aig. 34) unterstdtzt in E, F,
+so dass sioh ΕΒ zu ΕΙ) verhalt, wie das Quadrat von EA zum
+Quadrat von FO. Ieh behaupte, dass die in B, D angeb1·aohten
+Krafte, welehe die
+Widerstande in A, O Α Ε G Β
+aufheben, einander
+gleieh seien. - Sei
+EGdiemittlerePro- C F D
+portionale nn ΕΒ und Fig. 34.
+
+FD: aladann verhal-'
+
+teneieh ΒΕ anG, wieEG zu ΕΙ), oder wieAE'zu OF
+und ebenso verhaiten sioh der Annahme gendes die Wider-
+stando inAund in 0. De fernen EG zu ΕΙ), wie ΑΕ nu OF,
+so ist auoh GE zn EA, wie DF nn F0; (die Hebei DC und
+GA sind in den Punkten F und Ε proportional gethesst), wenn
+mithin die Krast, welohe in D engebraoht den Widerstand in 0
+aufhobt, naoh G veraetzt wdrde, so warde dieselbe denselben
+
+ 
+

@@ -1,0 +1,56 @@
+· ein Loth auf A E, wel-
+
+Unterredungen und mathemuische Demonstrationen etc, 41
+
+erinnem, jener Satn war, den Ihr‚ Hert Salm'ati, uns geometriseh
+, erklssren solltet. Wenn's Eueh recht ist, lasst uns ohne Ab·
+schweifung don Beweis hbren.
+
+Salv. Ich stehe zu mennon, und stelle Eueh folgende Auf-
+gabe: Eine gerade Linie sei irgendwie in ungleiohe Theile
+getheilt3 man soll einen Kteis besehreiben, so dass die Entfer-
+nungen von den Endpunkten der Linie naoh den Peripherie-
+punkten des Kreises dasselbe Verhsiltniss· haben, wie die beiden
+Theile der Linie3 die von Je einem Ende ausgehenden Streeken
+seien einander »homolog«. .
+
+Wir nehmen Ο zwisohen A und Β an und besohreiben mit
+der kflrzeren Streoke OB einen Kreis um 0, von A aus werde
+eineTangente an die-
+sen Kreis gelegt 'und
+vorlsngert naoh Ε hin.
+
+D sei der Bernhrungs-
+punkt3 man zieho OD,
+welches senkrooht zu
+AEsein wird3 in B A
+orriehte man das Loth
+ΒΕ bis zum Dutch-
+sehnitt mit der 'Pan-
+gente in E. Von Ε aus
+en‘iehte man wiederum
+
+ohes die verlnngerte Fig' ⁸·
+
+Liuio AB in F troffo. Ich behaupte nun, die Geraden FE, FC
+seien einander gleich3 deun ziehen wir EO, so sind in den
+Dreiecken ΒΕ 0, ,ΟΕΒ die seiten ΕΒ, Ε 0 des einen gleioh
+ΕΒ, ΕΟ des andern, weil DE, ΕΒ Tangenten am Kreise
+DB sind, ausserdem sind die Grundlinien D 0, OB als Radien
+einander gleich‚ folglioh ist Winkel DE 0 gleich Winkel ΒΕ 0,
+
+Nun ist Winkel B ΟΕ -1- OE Β = oinem Reehten
+und OE F -Ι- OED = einem Rechten
+
+und da OEB = ΟΕΙ),
+
+auoh FOE = ΟΕΕ,
+
+solglioh ist OEF gleichsehenklig und ΒΕ = 1²03 besehreibt
+man mit FB einen Kreis OE G, so muss derselbe mithin durch
+Chindurchgehon. Ich hehaupte nun, dieses sei der KreiS, dessen
+Punkte die gesuchte Eigensehaft haben. Fur den Punkt E ist
+die Sache klar, weil ΑΕ : ΕΒ = A 0 : CB, deun der Winkel
+
+ 
+
